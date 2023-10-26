@@ -210,5 +210,5 @@ Adding a face, Comet trail, Music and Sound, Shaders, etc.
 
 ## Created by 
 
-Jason Francis
+Thomas Lee Nicholson Jr.
 ```
